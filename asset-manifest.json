@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lastride/static/css/main.073c9b0a.css",
+    "main.js": "/lastride/static/js/main.280225a7.js",
+    "static/js/787.a2ee697a.chunk.js": "/lastride/static/js/787.a2ee697a.chunk.js",
+    "static/media/logo.svg": "/lastride/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lastride/index.html",
+    "main.073c9b0a.css.map": "/lastride/static/css/main.073c9b0a.css.map",
+    "main.280225a7.js.map": "/lastride/static/js/main.280225a7.js.map",
+    "787.a2ee697a.chunk.js.map": "/lastride/static/js/787.a2ee697a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.280225a7.js"
+  ]
+}
